@@ -6,4 +6,4 @@ Créez, avec ce que nous avons vu, un compte à rebours partant de 60 pour arriv
 
 N'hésitez pas à utiliser du CSS pour donner du style à votre compte à rebours.
 
-Ne vous limitez pas à une page blache, vous pouvez faire mieux que ca !!!!!!!
+Ne vous limitez pas à une page blanche, vous pouvez faire mieux que ca !!!!!!!
